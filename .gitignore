@@ -1,0 +1,12 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+
+# Ignore jupyter checpoints and dataset
+.ipynb_checkpoints/
+fonts-dataset/
